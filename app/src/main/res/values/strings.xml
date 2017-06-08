@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="time">"Time : "</string>
+    <string name="first_hour">"00:00:00"</string>
+
+    <string name="geographic_coordinate">Geographic coordinate</string>
+    <string name="geographic_latitude">Latitude</string>
+    <string name="geographic_longitude">Longitude</string>
+
+    <string name="first_geographic_coordinate_longitude">000</string>
+    <string name="first_geographic_coordinate_latitude">00</string>
+    <string name="geographic_coordinate_degree">"°"</string>
+    <string name="first_geographic_coordinate_minute">00</string>
+    <string name="geographic_coordinate_minute">"'"</string>
+
+    <string name="menu_settings">"Settings"</string>
+    <string name="menu_refresh">"Refresh from internet"</string>
+    <string name="menu_unit">"Set unit measures"</string>
+
+
+
+    <string name="menu_settings_refresh">"Refresh : "</string>
+    <string name="first_menu_settings_refresh_minute">"15"</string>
+    <string name="minute">" seconds"</string>
+    <string name="ok">" OK "</string>
+
+    <string name="sun">"Sun"</string>
+    <string name="moon">"Moon"</string>
+
+    <string name="start">"Astronomical information"</string>
+
+    <string name="first_full_geographic_coordinate_latitude">"00.00"</string>
+    <string name="first_full_geographic_coordinate_longitude">"000.00"</string>
+
+    <string name="east_time">"Rise time : "</string>
+    <string name="east_azimuth">"Rise azimuth : "</string>
+
+    <string name="west_time">"Set time : "</string>
+    <string name="west_azimuth">"Set azimuth : "</string>
+
+    <string name="civil_evening_time">"Twilight Evening time : "</string>
+    <string name="civil_daylight_time">"Twilight Morning time : "</string>
+
+    <string name="before_calculate">" ? "</string>
+
+    <string name="full_moon">"Next Full Moon time : "</string>
+    <string name="new_moon">"Next New Moon time : "</string>
+
+    <string name="illumination_moon">"Moon Phase [%] : "</string>
+    <string name="synodic_day">"Synodic Day : "</string>
+
+</resources>
